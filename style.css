@@ -13,3 +13,7 @@ p {
   color: Yellow;
   font-family: "Oswald", sans-serif;
 }
+
+div {
+  display: inline-block;
+}
