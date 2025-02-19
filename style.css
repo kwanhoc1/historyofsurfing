@@ -1,7 +1,7 @@
 body {
   text-align: center;
   font-family: "Open Sans", sans-serif;
-  color: violet;
+  color: rgb(79, 22, 79);
   margin: 20px 100px 20px 100px;
   height: 100vh;
   background-image: url("image.png");
@@ -13,8 +13,13 @@ h1,
 h2,
 p {
   text-align: center;
-  color: violet;
+  color: rgb(201, 5, 201);
   font-family: "Oswald", sans-serif;
+}
+
+.alert {
+  background-color: grey;
+  padding: 10px;
 }
 
 div {
@@ -24,7 +29,7 @@ div {
 .container {
   position: relative;
   text-align: center;
-  color: violet;
+  color: rgb(105, 23, 105);
 }
 
 .centered {
