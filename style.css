@@ -1,7 +1,7 @@
 body {
   text-align: center;
   font-family: "Open Sans", sans-serif;
-  color: Yellow;
+  color: Black;
   height: 100vh;
   background-image: url("image.png");
   background-repeat: no-repeat;
@@ -12,10 +12,18 @@ h1,
 h2,
 p {
   text-align: center;
-  color: Yellow;
+  color: Black;
   font-family: "Oswald", sans-serif;
 }
 
 div {
   display: inline-block;
+}
+
+.main_image_text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: Black;
 }
