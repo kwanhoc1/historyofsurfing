@@ -1,7 +1,7 @@
 body {
   text-align: center;
   font-family: "Open Sans", sans-serif;
-  color: Black;
+  color: darkorange;
   margin: 10px 50px 10px 50px;
   height: 100vh;
   background-image: url("image.png");
@@ -13,7 +13,7 @@ h1,
 h2,
 p {
   text-align: center;
-  color: Black;
+  color: darkorange;
   font-family: "Oswald", sans-serif;
 }
 
@@ -24,7 +24,7 @@ div {
 .container {
   position: relative;
   text-align: center;
-  color: Black;
+  color: darkorange;
 }
 
 .centered {
