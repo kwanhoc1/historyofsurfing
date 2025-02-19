@@ -8,5 +8,6 @@ body {
 
 h1,
 h2 {
+  color: Yellow;
   font-family: "Oswald", sans-serif;
 }
