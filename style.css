@@ -18,8 +18,7 @@ p {
 }
 
 .alert {
-  background-color: darkgrey;
-  opacity: 0.4;
+  background-color: rgb(157, 157, 157, 0.4);
   padding: 10px;
 }
 
