@@ -13,7 +13,7 @@ h1,
 h2,
 p {
   text-align: center;
-  color: yellowgreen;
+  color: Brown;
   font-family: "Oswald", sans-serif;
 }
 
@@ -24,7 +24,7 @@ div {
 .container {
   position: relative;
   text-align: center;
-  color: yellowgreen;
+  color: Brown;
 }
 
 .centered {
