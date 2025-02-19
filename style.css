@@ -1,7 +1,7 @@
 body {
   text-align: center;
   font-family: "Open Sans", sans-serif;
-  color: rgb(79, 22, 79);
+  color: rgb(246, 38, 246);
   margin: 20px 100px 20px 100px;
   height: 100vh;
   background-image: url("image.png");
@@ -13,13 +13,14 @@ h1,
 h2,
 p {
   text-align: center;
-  color: rgb(201, 5, 201);
+  color: rgb(219, 152, 219);
   font-family: "Oswald", sans-serif;
 }
 
 .alert {
-  background-color: grey;
+  background-color: rgb(96, 96, 96)36, 36);
   padding: 10px;
+  opacity: 0.4;
 }
 
 div {
@@ -29,7 +30,7 @@ div {
 .container {
   position: relative;
   text-align: center;
-  color: rgb(105, 23, 105);
+  color: rgb(255, 78, 255);
 }
 
 .centered {
