@@ -2,8 +2,10 @@ body {
   text-align: center;
   font-family: "Open Sans", sans-serif;
   color: Yellow;
+  height: 100vh;
   background-image: url("image.png");
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1,
